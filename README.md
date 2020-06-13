@@ -8,3 +8,5 @@ Features:
 - touchscreen control 
 - accelerometer control 
 - global leaderboards
+
+Developed &#169; byPahych in 2015.
